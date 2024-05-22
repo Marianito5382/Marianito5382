@@ -16,14 +16,7 @@
   </blockquote>
 
 </figure>
-<div class="contenedor-imagenes">
-  <img  width="24" height="24" src="https://github.com/jenirg/jenirg/blob/main/c-.png">
-  <img  width="24" height="24" src="https://github.com/jenirg/jenirg/blob/main/css-3%20(1).png">
-    <img  width="24" height="24" src="https://github.com/jenirg/jenirg/blob/main/html-5%20(2).png">
-  <img  width="24" height="24" src="https://github.com/jenirg/jenirg/blob/main/java.png">
-  <img  width="24" height="24" src="https://github.com/jenirg/jenirg/blob/main/github.png">
-  <img  width="24" height="24" src="https://github.com/jenirg/jenirg/blob/main/figma.png">
-</div>
+
 
 <pag align="center">
 <a href="https://github.com/ArisGuimera">
