@@ -1,13 +1,13 @@
 <div align="center">
-<h1 align="center">Hola👋, soy Mariano </h1>
+<h1 align="center">Hola👋, soy Mariano Gutiérrez</h1>
 </div>
 
 <div align="center">
-<p align="center">Me llamaron mas la atención Diseñador, Desarrollador Front-end, Manejo de Docker y AWS services </p>
+<p align="center">Me llamaron mas la atención estos roles como: diseñador, Desarrollador Front-end, Manejo de Docker y AWS services </p>
 </div>
 
 <div align="center">
-<img  width="500" height="400" src="">
+<img  width="600" height="500" src="https://github.com/Marianito5382/Marianito5382/blob/main/IMG_20240523_145737.jpg">
 </div>
 
 <br><br>
