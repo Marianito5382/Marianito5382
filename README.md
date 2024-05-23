@@ -17,9 +17,7 @@
 
 </figure>
 
-<p align = "center">
-	<img src = "https://github.com/Marianito5382/Marianito5382/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
 
 
 **Marianito5382/Marianito5382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
