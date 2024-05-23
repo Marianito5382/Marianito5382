@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img  width="600" height="500" src="https://github.com/Marianito5382/Marianito5382/blob/main/IMG_20240523_145737.jpg">
+<img  width="600" height="500" src="https://github.com/Marianito5382/Marianito5382/blob/main/IMG_20240523_150517.jpg">
 </div>
 
 <br><br>
