@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<p align="center">Mis cosas favoritas Diseñador, Desarrollador Front-end, Manejo de Docker y AWS services </p>
+<p align="center">Me llamaron mas la atención Diseñador, Desarrollador Front-end, Manejo de Docker y AWS services </p>
 </div>
 
 <div align="center">
